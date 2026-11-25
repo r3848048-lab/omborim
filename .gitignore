@@ -1,0 +1,22 @@
+# Ombor va mijozlar bazalari
+*.db
+*.db-*
+*.sqlite
+*.sqlite3
+
+# Maxfiy sozlamalar
+.env
+.env.*
+!.env.example
+
+# Zaxiralar va hisobotlar
+backups/
+*.csv
+
+# Python yordamchi fayllari
+__pycache__/
+*.pyc
+.venv/
+venv/
+0
+
